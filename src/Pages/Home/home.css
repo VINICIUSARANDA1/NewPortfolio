@@ -1,0 +1,37 @@
+section{
+    margin-left: 7em;
+    text-align: center;
+}
+
+
+p{
+    margin-top: 2em;
+}
+.title{
+    margin-top: 2em;
+}
+
+.title h1{
+    color: aqua;
+}
+
+
+
+/* Social Media   */
+.github{
+    font-size: 10em;
+}
+
+.linkedin{
+    font-size: 10em;
+}
+
+
+.icons{
+    color: black;
+}
+
+.icons:hover{
+    color: aqua;
+    transition: 0.25s;
+}
